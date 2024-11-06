@@ -1,0 +1,11 @@
+gunicorn
+flask
+joblib
+ta
+pandas
+datetime
+numpy
+scikit-learn
+MetaTrader5
+threading
+time
