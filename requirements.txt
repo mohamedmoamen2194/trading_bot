@@ -5,4 +5,4 @@ ta==0.11.0
 pandas==2.2.3
 numpy==2.0.2
 scikit-learn==1.5.2
-git+https://github.com/MetaTrader5/MetaTrader5.git
+docker pull ghcr.io/mhriemers/metatrader-5:sha-1cc4c7f3dffdeed3a34038cba8c4dc5f69817c9e
